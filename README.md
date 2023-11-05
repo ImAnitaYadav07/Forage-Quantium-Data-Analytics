@@ -6,11 +6,11 @@ This virtual experience program involves analysing chip purchases at supermarket
 The aim of this project was to evaluate different customers' purchasing behaviours and the performance of trial stores with a new layout to provide insights of customer preferences to the client 
 and a recommendation of whether the trial has been successful. 
 
-# Forage Quantium Data Analytics Virtual Experience Program
+## Forage Quantium Data Analytics Virtual Experience Program Tasks
 My submission of this program's 3 tasks: 
-- Data preparation and customer analytics,
-- Experimentation and uplift testing, and
-- Analytics and commercial application.
+- Data preparation and customer analytics
+- Experimentation and uplift testing
+- Analytics and commercial application
 
 ## Dependencies
 Language: Python 3.8 \
@@ -54,4 +54,4 @@ Files: QVI_task2.ipynb, reads QVI_data.csv
 
 ### Task 3: Analytics and commercial application
 - Prepared a report in Powerpoint highlighting key insights from Tasks 1 and 2 using the Pyramid Principle
-- [Report](https://shorturl.at/hiwR7)**<br/>
+- [Report](https://github.com/ImAnitaYadav07/Forage-Quantium-Data-Analytics/blob/80588082d7da245f3628ff132e4455f0298627bc/Qvi-ppt.pdf)**<br/>
