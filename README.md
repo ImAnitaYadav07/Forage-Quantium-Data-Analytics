@@ -54,4 +54,4 @@ Files: QVI_task2.ipynb, reads QVI_data.csv
 
 ### Task 3: Analytics and commercial application
 - Prepared a report in Powerpoint highlighting key insights from Tasks 1 and 2 using the Pyramid Principle
-- [Report](https://github.com/ImAnitaYadav07/Forage-Quantium-Data-Analytics/blob/80588082d7da245f3628ff132e4455f0298627bc/Qvi-ppt.pdf)**<br/>
+- [Report](https://github.com/ImAnitaYadav07/Forage-Quantium-Data-Analytics/blob/80588082d7da245f3628ff132e4455f0298627bc/Qvi-ppt.pdf)
